@@ -4,7 +4,12 @@
     "entry": "./plugins/sample-plugin/plugin.js"
   },
   {
+    "name": "buthmika Plugin",
+    "entry": "./plugins/buthmika-plugin/plugin.js"
+  },
+  {
     "name": "conflict Plugin",
     "entry": "./plugins/conflict-plugin/plugin.js"
   }
+
 ]
